@@ -4,3 +4,22 @@ This repository contains the research project, data analysis, and code scripts (
 
 - **Focus:** Computer Science, Data Analysis, and Higher Education in Turkey.
 - **Tools:** Python (Pandas, Matplotlib/Seaborn), Google Forms for data collection.
+## 📊 Project Structure & Methodology
+
+- **Data Collection:** Primary data gathered via structured surveys (Google Forms) targeting students and prospective applicants. Sample size: **61+ responses** (ongoing target: 100).
+- **Data Analysis:** Processing, cleaning, and statistical evaluation utilizing Python.
+- **Key Metrics Evaluated:** 
+  - Factors influencing the choice of IT educational programs.
+  - Perceptions of academic mobility and international scholarships (e.g., Türkiye Bursları).
+  - Career outlook expectations post-graduation.
+
+## 🛠️ Tech Stack
+- **Language:** Python
+- **Libraries:** Pandas (data manipulation), Matplotlib / Seaborn (visualization - *coming soon*)
+- **Tools:** Git, GitHub, Google Forms
+
+## 🚀 Status
+- [x] Topic definition and scope formulation
+- [x] Survey distribution and initial data collection (60+ responses)
+- [ ] Data cleaning and exploratory data analysis (EDA) in Python
+- [ ] Final visualization and summary report
