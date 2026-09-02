@@ -4,6 +4,7 @@ This repository contains the research project, data analysis, and code scripts (
 
 - **Focus:** Computer Science, Data Analysis, and Higher Education in Turkey.
 - **Tools:** Python (Pandas, Matplotlib/Seaborn), Google Forms for data collection.
+
 ## 📊 Project Structure & Methodology
 
 - **Data Collection:** Primary data gathered via structured surveys (Google Forms) targeting students and prospective applicants. Sample size: **61+ responses** (ongoing target: 100).
@@ -21,7 +22,10 @@ This repository contains the research project, data analysis, and code scripts (
 ## 🚀 Status
 - [x] Topic definition and scope formulation
 - [x] Survey distribution and initial data collection (60+ responses)
-- [ ] ## 🎯 Future Plans
+- [ ] Data cleaning and exploratory data analysis (EDA) in Python
+- [ ] Final visualization and summary report
+
+## 🎯 Future Plans
 - Expand survey reach across international student communities.
 - Implement advanced data visualizations (correlation matrices and charts) using Python.
 - Publish final findings and translated summary reports.
@@ -30,5 +34,3 @@ This repository contains the research project, data analysis, and code scripts (
 - **Zhandos Nurtaliuly**
 - Focused on Computer Science, Data Analysis, and International Academic Opportunities.
 - GitHub: [@Zhandostech](https://github.com/ZhandosIT)
-- [ ] Data cleaning and exploratory data analysis (EDA) in Python
-- [ ] Final visualization and summary report
