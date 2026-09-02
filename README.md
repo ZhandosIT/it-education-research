@@ -21,5 +21,14 @@ This repository contains the research project, data analysis, and code scripts (
 ## 🚀 Status
 - [x] Topic definition and scope formulation
 - [x] Survey distribution and initial data collection (60+ responses)
+- [ ] ## 🎯 Future Plans
+- Expand survey reach across international student communities.
+- Implement advanced data visualizations (correlation matrices and charts) using Python.
+- Publish final findings and translated summary reports.
+
+## 👤 Author
+- **Zhandos Nurtaliuly**
+- Focused on Computer Science, Data Analysis, and International Academic Opportunities.
+- GitHub: [@Zhandostech](https://github.com/ZhandosIT)
 - [ ] Data cleaning and exploratory data analysis (EDA) in Python
 - [ ] Final visualization and summary report
